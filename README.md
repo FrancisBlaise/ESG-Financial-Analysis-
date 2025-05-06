@@ -19,6 +19,9 @@
 
 This project aims to correlate financial performance to esg metrics. We aim to identify how esg metrics affect various industries, also prove to stakeholders why they should invest in companies with good esg metrics
 
+![1003142848](https://github.com/user-attachments/assets/86b960ba-96d2-4994-a009-75877c57bb97)
+
+
 ### MAIN OBJECTIVE 
 - Identifying high and low performing companies from an ESG perspective.
 - Investigating which ESG pillars (Environmental, Social, Governance) most strongly correlate with financial success.
@@ -34,6 +37,7 @@ Additionally, the growth rate has declined from a peak of 5.4% in 2019 to 4.2% i
 
 #### Aim:
 To enhance the company’s ESG performance, profitability, and market presence by leveraging data driven insights, thereby ensuring sustainable growth and increased investor confidence by 2027.
+
 
 #### Objectives:  
 
@@ -169,17 +173,33 @@ In order to define how ESG factors relate to company financials the following an
 
 - ESG Impact on Revenue: The pie chart shows $8225.6M in revenue from high ESG performers versus $4253.0M from low ESG performers. This indicates a significant portion of revenue (65.7%) is tied to companies with higher ESG scores, which could pose risks due to increasing regulatory and consumer focus on sustainability.
 
+![1003000649](https://github.com/user-attachments/assets/3cc506f8-15a3-49e5-b803-448cf2574044)
+
+
 - Profit Margin Variability: The profit margin of 10.9% is shown, but the "Average ESG Pillar by Industry" bar chart reveals disparities. Industries like Energy and Manufacturing have lower ESG scores (below 50), particularly in Environmental and Social pillars, which may signal operational inefficiencies or reputational risks affecting profitability.
 
+![1003000647](https://github.com/user-attachments/assets/a94d9adc-2b40-4cfa-b679-a5283bfb7bd9)
+
+
 - Regional Disparities: The "Total Revenue by Region" chart shows Europe leading at 10B, while regions like Middle East and Oceania lag (0.8B each). The "ESG Score Over Time for Each Region" line graph indicates North America and Europe have higher and more stable ESG scores (60-70), while Latin America and Asia show lower scores (40-50), suggesting underperformance in ESG adoption in these regions.
+
+![1003000656](https://github.com/user-attachments/assets/0b594d7d-0467-48e6-bfd5-6469fe606e2e)
+
 
 #### Highlighting Growth Potential
 
 - Rising ESG Trends: The "ESG Score Over Time for Each Region" shows a gradual upward trend in ESG scores across all regions from 2015 to 2025, with North America and Europe leading. This indicates growing awareness and adoption of ESG practices, presenting opportunities for growth in regions catching up, like Asia and Latin America.
 
+![1003000650](https://github.com/user-attachments/assets/fecbc1be-0aed-4fc4-a393-5b228be724b5)
+
+
 - Industry Opportunities: The "Average ESG Score by Industry" chart highlights that Finance and Technology industries have higher ESG scores (~60-70). These sectors show potential for sustained growth as they align with global ESG trends.
 
+![1003000648](https://github.com/user-attachments/assets/8f0c225d-0fa2-42f2-9859-74be53ea4ab5)
+
 - Revenue Growth in High ESG Performers: Although currently smaller, the $4253.0M revenue from low ESG performers signals a growing market segment. As consumer and investor preferences shift toward sustainability, this segment is likely to expand.
+
+![1003000649](https://github.com/user-attachments/assets/1d83896c-1ab5-4efe-acb4-73df8f3ad19f)
 
 ### RECOMMENDATIONS 
 
@@ -196,6 +216,7 @@ In order to define how ESG factors relate to company financials the following an
 ##### Suggested Focus Areas for ESG Improvements
 
 - Environmental Pillar in Energy and Manufacturing: The "Average ESG Pillar by Industry" chart shows Energy and Manufacturing lagging in the Environmental pillar (~30-40). Focus on reducing emissions, adopting renewable energy, and improving waste management to boost ESG scores and reduce risks.
+
 
 - Social Pillar in Consumer Goods and Retail: These industries score lower in the Social pillar (~40-50). Implement better labor practices, enhance supply chain transparency, and improve community engagement to address social concerns
 
